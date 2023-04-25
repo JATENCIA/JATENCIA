@@ -61,8 +61,9 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 [<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
 
 
-<img src="https://user-images.githubusercontent.com/96576405/234188326-ade3324c-bbec-4633-b4b2-ab7727eed7c3.png" alt="me" width="36"/> *atenciajaramillo@gmail.com*
+<img src="https://user-images.githubusercontent.com/96576405/234188326-ade3324c-bbec-4633-b4b2-ab7727eed7c3.png" alt="me" width="34"/> *atenciajaramillo@gmail.com*
 
+<img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> *+57 313 6040 850*
 
 ## Stats
 
