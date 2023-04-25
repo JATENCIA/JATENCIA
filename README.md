@@ -59,6 +59,9 @@ Feel free to reach out to me for any challenge your team may have!
   
 [<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
 
+[<img src="" alt="me" width="40"/>](atenciajaramillo@gmail.com)
+
+
 ![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA&show_icons=true&theme=cobalt)
 
 <!--
