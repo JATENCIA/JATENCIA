@@ -5,6 +5,8 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://user-images.githubusercontent.com/96576405/234157809-e04c9ecd-817c-44cb-95fb-66e7362ff215.png" alt="me" width="200"/> 
+<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.svgator.com/assets/main-page/fold7/export-settings-2.png">
+ 
 </div>
 
 <br/>
