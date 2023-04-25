@@ -1,5 +1,9 @@
 ### Hi, I'm Jose Atencia 👋🏻    🖥️   👨🏻‍💻 
-<img src ="https://user-images.githubusercontent.com/96576405/234157809-e04c9ecd-817c-44cb-95fb-66e7362ff215.png" alt = "me" width = "200" />
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/96576405/234157809-e04c9ecd-817c-44cb-95fb-66e7362ff215.png" alt="me" width="200"/>
+  <img src="" alt="me" width="200"/>
+</div>
+
 
 ```js
 const JATENCIA = {
