@@ -8,8 +8,10 @@
 </div>
 <br/>
 <div style="display: flex; justify-content: space-between;">
+  <img src="https://user-images.githubusercontent.com/96576405/234177712-a6ad97f0-bc95-48be-8eb6-6a17492ed83a.jpeg" alt="me" width="60"/> 
   <img src="https://user-images.githubusercontent.com/96576405/234177242-9f5bda03-d631-4846-9f12-26a487524390.png" alt="me" width="60"/> 
 </div>
+
 
 ## about me in code
 
