@@ -58,7 +58,7 @@ Feel free to reach out to me for any challenge your team may have!
 ## you cant find me    🌎 :
 - [LinkedIn](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
 
-[![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA)](https://github.com/anuraghazra/github-readme-stats)
+![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA&show_icons=true&theme=cobalt)
 
 <!--
 **JATENCIA/JATENCIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
