@@ -19,6 +19,29 @@ const JATENCIA = {
 
 ```
 
+## About Me
+
+Are you looking for a Full Stack developer with knowledge of technologies such as React, Node, Express, Redux, MongoDB, Mongoose, PostgreSQL, Sequelize, Git, GitHub, HTML, and CSS? Look no further! Here I am, ready to tackle any challenge that comes my way.
+
+I am passionate about technology, a true lover of clean and efficient code. But I don't stop there, I also have leadership skills, the ability to learn quickly, and a positive attitude that allows me to bring value to any team.
+
+### Skills
+
+- React
+- Node
+- Express
+- Redux
+- MongoDB
+- Mongoose
+- PostgreSQL
+- Sequelize
+- Git
+- GitHub
+- HTML
+- CSS
+
+Feel free to reach out to me for any challenge your team may have!
+
 
 
 ## you cant find me    🌎 :
