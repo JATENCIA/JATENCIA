@@ -1,5 +1,6 @@
 ### Hi, I'm Jose Atencia 👋🏻    🖥️   👨🏻‍💻 
-![me](https://user-images.githubusercontent.com/96576405/234157809-e04c9ecd-817c-44cb-95fb-66e7362ff215.png)
+<img src ="https://user-images.githubusercontent.com/96576405/234157809-e04c9ecd-817c-44cb-95fb-66e7362ff215.png" alt = "me" width = "200" />
+
 ```js
 const JATENCIA = {
   pronouns: "he" | "him",
