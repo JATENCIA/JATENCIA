@@ -66,7 +66,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 <img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> *+57 313 6040 850*
 
 
-[SportPlanet](https://github.com/JATENCIA/JATENCIA/issues/20#issue-1682519139)
+[SportPlanet](https://github.com/JATENCIA/SportPlanet)
 
 
 ## Stats
