@@ -6,7 +6,10 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://user-images.githubusercontent.com/96576405/234157809-e04c9ecd-817c-44cb-95fb-66e7362ff215.png" alt="me" width="200"/> 
 </div>
-
+<br/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://user-images.githubusercontent.com/96576405/234177242-9f5bda03-d631-4846-9f12-26a487524390.png" alt="me" width="60"/> 
+</div>
 
 ## about me in code
 
