@@ -9,7 +9,7 @@
 <br/>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://user-images.githubusercontent.com/96576405/234178806-8d75c930-80d0-481f-9f9a-9514d4057c92.png" alt="me" width="60"/> 
-  <img src="https://user-images.githubusercontent.com/96576405/234177242-9f5bda03-d631-4846-9f12-26a487524390.png" alt="me" width="60"/> 
+  <img src="https://user-images.githubusercontent.com/96576405/234179088-6d3200d1-60aa-472f-b9f6-10e7445783e3.png" alt="me" width="60"/> 
 </div>
 
 
