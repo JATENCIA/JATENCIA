@@ -74,12 +74,16 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 <img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 313 6040 850* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 310 594 1085* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 301 355 1479*
 
-##  SportPlanet_PF
+# Most relevant projects
 
-[<img src="https://user-images.githubusercontent.com/96576405/234194074-4a8750b4-7f81-4222-b7cb-0f774d15c59c.png" alt="me" width="70"/> ](https://github.com/JATENCIA/SportPlanet) <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> 
+ - ***SportPlanet_PF***
 
-## Food_PI
-[<img src="https://user-images.githubusercontent.com/96576405/234195570-1b62c0ba-e63f-489f-9247-646a115bd662.gif" alt="me" width="80"/> ](https://github.com/JATENCIA/Food-PI)  <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> 
+      [<img src="https://user-images.githubusercontent.com/96576405/234194074-4a8750b4-7f81-4222-b7cb-0f774d15c59c.png" alt="me" width="70"/> ](https://github.com/JATENCIA/SportPlanet) <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> 
+
+- ***Food_PI*** 
+
+
+     [<img src="https://user-images.githubusercontent.com/96576405/234195570-1b62c0ba-e63f-489f-9247-646a115bd662.gif" alt="me" width="80"/> ](https://github.com/JATENCIA/Food-PI)  <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> 
 
 
 
