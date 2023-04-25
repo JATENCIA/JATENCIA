@@ -66,7 +66,8 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 
 
-## you cant find me    🌎 :
+
+## you cant find me    <img src = "https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-globo-terrestre-8.gif" width = 30px>  :
   
 [<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/) <img src = "https://media2.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95207o3ne5gh3xhlxzmb1dx1upi4yqn3bkx640wn1qc&rid=giphy.gif&ct=s" width = 85px> 
 
