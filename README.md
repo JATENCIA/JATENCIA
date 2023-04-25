@@ -76,10 +76,11 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 ##  SportPlanet_PF
 
-[<img src="https://user-images.githubusercontent.com/96576405/234194074-4a8750b4-7f81-4222-b7cb-0f774d15c59c.png" alt="me" width="40"/> ](https://github.com/JATENCIA/SportPlanet)
+[<img src="https://user-images.githubusercontent.com/96576405/234194074-4a8750b4-7f81-4222-b7cb-0f774d15c59c.png" alt="me" width="70"/> ](https://github.com/JATENCIA/SportPlanet) <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> 
 
 ## Food_PI
-[<img src="https://user-images.githubusercontent.com/96576405/234195570-1b62c0ba-e63f-489f-9247-646a115bd662.gif" alt="me" width="50"/> ](https://github.com/JATENCIA/Food-PI)
+[<img src="https://user-images.githubusercontent.com/96576405/234195570-1b62c0ba-e63f-489f-9247-646a115bd662.gif" alt="me" width="80"/> ](https://github.com/JATENCIA/Food-PI)  <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> <img src = "https://chiacomercial.com/wp-content/uploads/2023/01/promf-14.gif" width = 85px> 
+
 
 
 ## Stats
