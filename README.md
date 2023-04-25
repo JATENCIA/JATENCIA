@@ -61,7 +61,6 @@ I am passionate about technology, a true lover of clean and efficient code. But 
   
 [<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
 
-[<img src="https://user-images.githubusercontent.com/96576405/234186884-ace9c217-f724-400b-9d20-f6110bead566.png" alt="me" width="37"/>](atenciajaramillo@gmail.com)
 
 ## Stats
 
