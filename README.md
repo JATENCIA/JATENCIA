@@ -44,7 +44,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 ## Skills
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51158316-fd7e-48ca-b5fe-8542e9dfe357/ddyckby-a405dbbb-f009-4058-abe6-c5ca67ede1fd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTU4MzE2LWZkN2UtNDhjYS1iNWZlLTg1NDJlOWRmZTM1N1wvZGR5Y2tieS1hNDA1ZGJiYi1mMDA5LTQwNTgtYWJlNi1jNWNhNjdlZGUxZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rFN986LxxQN3Xo6buWpsfVgLudpVwrbKoAmEHgn0ipU">
+<img hight="400" width="480" alt="GIF" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51158316-fd7e-48ca-b5fe-8542e9dfe357/ddyckby-a405dbbb-f009-4058-abe6-c5ca67ede1fd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTU4MzE2LWZkN2UtNDhjYS1iNWZlLTg1NDJlOWRmZTM1N1wvZGR5Y2tieS1hNDA1ZGJiYi1mMDA5LTQwNTgtYWJlNi1jNWNhNjdlZGUxZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rFN986LxxQN3Xo6buWpsfVgLudpVwrbKoAmEHgn0ipU">
 
 
 
