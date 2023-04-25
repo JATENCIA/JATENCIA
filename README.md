@@ -43,6 +43,13 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 ## Skills
 
+
+<img hight="400" width="450" alt="GIF" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51158316-fd7e-48ca-b5fe-8542e9dfe357/ddyckby-a405dbbb-f009-4058-abe6-c5ca67ede1fd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTU4MzE2LWZkN2UtNDhjYS1iNWZlLTg1NDJlOWRmZTM1N1wvZGR5Y2tieS1hNDA1ZGJiYi1mMDA5LTQwNTgtYWJlNi1jNWNhNjdlZGUxZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rFN986LxxQN3Xo6buWpsfVgLudpVwrbKoAmEHgn0ipU">
+
+
+
+
+
 - React
 - Node
 - Express
@@ -61,12 +68,11 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 ## you cant find me    🌎 :
   
-[<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
-
+[<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/) <img src = "https://media2.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95207o3ne5gh3xhlxzmb1dx1upi4yqn3bkx640wn1qc&rid=giphy.gif&ct=s" width = 85px> 
 
 <img src="https://user-images.githubusercontent.com/96576405/234188326-ade3324c-bbec-4633-b4b2-ab7727eed7c3.png" alt="me" width="34"/> *atenciajaramillo@gmail.com*
 
-<img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/>**📲** *+57 313 6040 850* **📲** *+57 310 594 1085* **📲** *+57 301 355 1479*
+<img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 313 6040 850* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 310 594 1085* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 301 355 1479*
 
 ##  SportPlanet_PF
 
