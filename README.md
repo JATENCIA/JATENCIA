@@ -13,7 +13,7 @@
 ```js
 const JATENCIA = {
   pronouns: "he" | "him",
-  code: [Javascript,HTML, CSS
+  code: [Javascript,HTML, CSS],
   tools: [React, Redux, Node, Express, MongoDB, PosgrestSQL]
 }
 
