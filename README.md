@@ -73,7 +73,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 <img src="https://user-images.githubusercontent.com/96576405/234188326-ade3324c-bbec-4633-b4b2-ab7727eed7c3.png" alt="me" width="34"/> *atenciajaramillo@gmail.com*
 
-<img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 313 6040 850* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 310 594 1085* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 301 355 1479*
+<img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> *+57 313 6040 850*
 
 # Most relevant projects <img src = "https://career.gatech.edu/sites/default/files/images/marketing_icon.gif" width = 50px>
 
