@@ -30,7 +30,7 @@ const JATENCIA = {
 
 ```
 
-## About Me
+## About Me   <img src = "https://i.pinimg.com/originals/d0/40/7c/d0407ccacaef0646de86ef9cbfb8d4f1.gif" width = 30px>
 
 I am a Full Stack developer with experience in JavaScript and solid knowledge in technologies such as React, Node, Express, Redux, MongoDB, Mongoose, PostgreSQL, Sequelize, Git, and GitHub, as well as in HTML and CSS. Additionally, I possess leadership skills and the ability to learn quickly, enabling me to bring value to any company I work for. I am always seeking new challenges and opportunities for professional growth. I appreciate the opportunity to present my profile and look forward to contributing my experience and skills to your company.
 
@@ -41,7 +41,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 *Feel free to reach out to me for any challenge your team may have!*
 
 
-## Skills
+## Skills <img src = "https://gruports.com/img/cerebro-digital-skills.gif" width = 70px>
 
 
 <img hight="400" width="480" alt="GIF" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51158316-fd7e-48ca-b5fe-8542e9dfe357/ddyckby-a405dbbb-f009-4058-abe6-c5ca67ede1fd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTU4MzE2LWZkN2UtNDhjYS1iNWZlLTg1NDJlOWRmZTM1N1wvZGR5Y2tieS1hNDA1ZGJiYi1mMDA5LTQwNTgtYWJlNi1jNWNhNjdlZGUxZmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rFN986LxxQN3Xo6buWpsfVgLudpVwrbKoAmEHgn0ipU">
@@ -67,7 +67,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 
 
-## you cant find me    <img src = "https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-globo-terrestre-8.gif" width = 30px>  :
+## you cant find me    <img src = "https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-globo-terrestre-8.gif" width = 30px>  
   
 [<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/) <img src = "https://media2.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95207o3ne5gh3xhlxzmb1dx1upi4yqn3bkx640wn1qc&rid=giphy.gif&ct=s" width = 85px> 
 
@@ -75,7 +75,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 <img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 313 6040 850* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 310 594 1085* <img src="https://images.vexels.com/media/users/3/208106/isolated/lists/25f90f676b6ea88a5683158d91007907-icono-de-trazo-de-llamada-de-telefono-celular.png" alt="me" width="20"/>  *+57 301 355 1479*
 
-# Most relevant projects
+# Most relevant projects <img src = "https://career.gatech.edu/sites/default/files/images/marketing_icon.gif" width = 50px>
 
  - ***SportPlanet_PF***
 
@@ -88,7 +88,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 
 
-## Stats
+## Stats <img src = "https://media.tenor.com/FjvyyCwzuEQAAAAi/pikachu-happy.gif" width = 50px>
 
 ![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA&show_icons=true&theme=cobalt)
 
