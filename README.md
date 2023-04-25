@@ -22,7 +22,7 @@ const JATENCIA = {
 
 
 you cant find me    🌎 :
--[LinkedIn](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
+- [LinkedIn](https://www.linkedin.com/in/joseantonioatenciajaramillo/)
 
 [![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA)](https://github.com/anuraghazra/github-readme-stats)
 
