@@ -90,7 +90,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 ## Stats <img src = "https://media.tenor.com/FjvyyCwzuEQAAAAi/pikachu-happy.gif" width = 50px>
 
-![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA&show_icons=true&theme=cobalt)
+[![JATENCIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JATENCIA)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JATENCIA/JATENCIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
