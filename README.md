@@ -69,11 +69,13 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 
 ## you cant find me    <img src = "https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-globo-terrestre-8.gif" width = 30px>  
   
-[<img src="https://user-images.githubusercontent.com/96576405/234184757-0dd34761-c8aa-4fd5-876d-45d4d98ea637.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/) <img src = "https://media2.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95207o3ne5gh3xhlxzmb1dx1upi4yqn3bkx640wn1qc&rid=giphy.gif&ct=s" width = 85px> 
+[<img src="https://cdn-icons-png.flaticon.com/128/4222/4222568.png" alt="me" width="40"/>](https://www.linkedin.com/in/joseantonioatenciajaramillo/) <img src = "https://media2.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95207o3ne5gh3xhlxzmb1dx1upi4yqn3bkx640wn1qc&rid=giphy.gif&ct=s" width = 85px> 
 
-<img src="https://user-images.githubusercontent.com/96576405/234188326-ade3324c-bbec-4633-b4b2-ab7727eed7c3.png" alt="me" width="34"/> *atenciajaramillo@gmail.com*
+[<img src="https://cdn-icons-png.flaticon.com/512/973/973746.png" alt="me" width="40"/>](https://devatencia.vercel.app/) <img src = "https://media2.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95207o3ne5gh3xhlxzmb1dx1upi4yqn3bkx640wn1qc&rid=giphy.gif&ct=s" width = 85px> 
 
-<img src="https://user-images.githubusercontent.com/96576405/234190514-7c1ecfa0-8f90-452d-a7ef-77510ac72e6d.png" alt="me" width="40"/> *+57 313 6040 850*
+<img src="https://cdn-icons-png.flaticon.com/128/2250/2250130.png" alt="me" width="34"/> *atenciajaramillo@gmail.com*
+
+<img src="https://cdn-icons-png.flaticon.com/128/967/967214.png" alt="me" width="40"/> *+57 313 6040 850*
 
 # Most relevant projects <img src = "https://career.gatech.edu/sites/default/files/images/marketing_icon.gif" width = 50px>
 
