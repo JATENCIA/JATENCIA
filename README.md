@@ -16,7 +16,9 @@
   <img src="https://user-images.githubusercontent.com/96576405/234179088-6d3200d1-60aa-472f-b9f6-10e7445783e3.png" alt="me" width="60"/> 
   <img src="https://user-images.githubusercontent.com/96576405/234180680-7043039f-2bc3-485b-bedc-7af23db4b66d.png" alt="me" width="60"/> 
   <img src="https://user-images.githubusercontent.com/96576405/234181286-c2ec72f2-793b-4db7-946d-ad7f6953e5da.png" alt="me" width="60"/> 
-  <img src="" alt="me" " width="60" />   
+<div>
+ <img src="https://github.com/JATENCIA/JATENCIA/assets/96576405/4c20880b-b2bc-4c1e-be1c-3189281fa295" alt="me" " width="80" />  
+</div>
 </div>
 <br/>
 
