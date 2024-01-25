@@ -24,7 +24,7 @@
 ```js
 const JATENCIA = {
   pronouns: "he" | "him",
-  code: [Javascript,HTML, CSS,Tailwindcss],
+  code: [Javascript,Java,HTML, CSS,Tailwindcss],
   tools: [React, Redux, Node, Express, MongoDB, PosgrestSQL]
 }
 
