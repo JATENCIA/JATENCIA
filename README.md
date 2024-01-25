@@ -27,7 +27,7 @@
 const JATENCIA = {
   pronouns: "he" | "him",
   code: [Javascript,Java,HTML, CSS,Tailwindcss],
-  tools: [React, Redux, Node, Express, MongoDB, PosgrestSQL]
+  tools: [React, Redux, Node, Express, Spring Boot, MongoDB, PosgrestSQL]
 }
 
 ```
@@ -55,6 +55,7 @@ I am passionate about technology, a true lover of clean and efficient code. But 
 - React
 - Node
 - Express
+- Spring Boot
 - Redux
 - MongoDB
 - Mongoose
