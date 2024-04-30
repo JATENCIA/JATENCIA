@@ -1,4 +1,4 @@
-### <h1>Hi, I'm Jose Atencia <img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" alt="me" width="180"/></h1>
+### <h1>Hi, I'm Jose Atencia <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96576405/326906317-6dd2367e-0744-417b-9cb6-46ba335c4559.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240430T164540Z&X-Amz-Expires=300&X-Amz-Signature=636024165b019bb81c3e79f999c1f88b7e1df7e41b64c3e428e93d0aec99e629&X-Amz-SignedHeaders=host&actor_id=96576405&key_id=0&repo_id=632234407" alt="me" width="180"/></h1>
  
 
 
