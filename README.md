@@ -1,4 +1,4 @@
-### <h1>Hi, I'm Jose Atencia 👋🏻    🖥️   👨🏻‍ <img src="https://user-images.githubusercontent.com/96576405/234164355-2e25af3b-8297-496d-a121-424e92e9036a.gif" alt="me" width="50"/></h1>
+### <h1>Hi, I'm Jose Atencia <img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" alt="me" width="180"/></h1>
  
 
 
